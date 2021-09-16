@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @newmint900
-- 👀 I’m interested in Linux
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Linux, emacs & Docker
+- 🌱 I’m currently learning Python & Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
